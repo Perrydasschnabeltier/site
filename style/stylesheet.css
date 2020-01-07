@@ -1,7 +1,7 @@
 
 * {
     box-sizing: border-box;
-    background-color: #2EFE2E;
+    background-color: #FFFFFF;
     margin: 0;    
     padding: 0;  
 
@@ -10,14 +10,14 @@ li, a {
     font-family: 'Oswald', sans-serif;
     font-weight: 500;
     font-size: 24px;
-    color: #edf0f1;
+    color: #0101DF;
     text-decoration: none;
 }
 .Thema {
     font-family: 'Oswald', sans-serif;
     font-weight: 500;
     font-size: 34px;
-    color: #edf0f1;
+    color: #0101DF;
     text-decoration: none;
 }
 
