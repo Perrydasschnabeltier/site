@@ -26,14 +26,24 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 16px 10%;
+    
+.logo {
+    cursor: pointer;
+    order: 3;
+    margin-left: auto;
 }
+    
+nav {
+    order: 1;
+    }
+    
 .nav {
     list-style: none;
     
 }
 .nav li {
     display: inline-block;
-    padding: 30px ;
+    padding: 0px 20px ;
 
 }
 .nav li a {
@@ -43,3 +53,20 @@ header {
 .nav li a:hover {
     color: #0088a9
 }
+ 
+.cta {
+    order: 2;
+    }
+    
+button {
+    padding: 9px 25px;
+    background-color: rgba(0,136,169,1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    }
+
+button:hover {
+    background-color: rgba(0,136,169,0.8);
+    }
