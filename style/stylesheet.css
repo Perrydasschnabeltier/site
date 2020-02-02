@@ -9,7 +9,20 @@ body{
     width: 100%;
     position: absolute;
 }
-.Schnabeltier ul{
+.Schnabeltier{
     height: 50px;
     float: ri;
+}
+.Schnabeltier ul li{
+    display: inline-block
+    padding: 40px 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+}
+.banner-text h2{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    margin-top: 20%;
 }
