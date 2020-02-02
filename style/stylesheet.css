@@ -12,7 +12,7 @@ body{
 }
 .banner-text ul{
     height: 50px;
-    float: ri;
+    float: right;
 }
 .banner-text ul li{
     display: inline-block;
