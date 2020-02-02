@@ -5,15 +5,15 @@
 body{
     font-family: Baloo;
 }
-.Schnabeltier{
+.banner-text{
     width: 100%;
     position: absolute;
 }
-.Schnabeltier{
+.banner-text ul{
     height: 50px;
     float: ri;
 }
-.Schnabeltier ul li{
+.banner-text ul li{
     display: inline-block
     padding: 40px 15px;
     text-transform: uppercase;
